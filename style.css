@@ -1,10 +1,10 @@
 :root {
-    --bg-color: #0f172a;
+    --bg-color: #85cef8;
     --text-main: #f8fafc;
     --text-muted: #94a3b8;
 
     --gradient-primary: linear-gradient(135deg, #06b6d4, #8b5cf6);
-    --gradient-hover: linear-gradient(135deg, #0891b2, #7c3aed);
+    --gradient-hover: linear-gradient(135deg, #1822b4, #7c3aed);
 
     --card-bg: rgba(30, 41, 59, 0.7);
     --card-border: #334155;
@@ -46,7 +46,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgba(15, 23, 42, 0.85);
+    background: rgba(25, 25, 27, 0.85);
     backdrop-filter: blur(10px);
     z-index: 1000;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -55,12 +55,12 @@ body {
 .navbar .logo {
     font-size: 1.5rem;
     font-weight: 700;
-    color: white;
+    color: rgb(161, 216, 252);
     text-decoration: none;
 }
 
 .navbar .logo span {
-    color: #06b6d4;
+    color: #8abbf3;
 }
 
 .nav-links a {
@@ -126,7 +126,7 @@ body {
 .btn {
     display: inline-block;
     background: var(--gradient-primary);
-    color: white;
+    color: rgb(247, 145, 204);
     padding: 14px 32px;
     text-decoration: none;
     border-radius: 50px;
@@ -195,7 +195,7 @@ body {
     object-fit: cover;
     padding: 5px;
     background: var(--gradient-primary);
-    box-shadow: 0 0 30px rgba(6, 182, 212, 0.4);
+    box-shadow: 0 0 30px rgba(8, 25, 255, 0.4);
 }
 
 .skills-container {
