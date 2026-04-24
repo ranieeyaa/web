@@ -2,7 +2,7 @@ const databaseProyek = {
     "sistem_post": {
         judul: "Portofolio Pribadi ",
         keahlian: ["JavaScript","PHP"],
-        gambar: "https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",
+        gambar: "https://www.moople.in/blog/wp-content/uploads/2024/11/html-css-full-course-20-11-2024.jpg",
         latar: "this is my project",
         tantangan: "",
         pelajaran: "",
@@ -12,7 +12,7 @@ const databaseProyek = {
      "sistem_post2": {
         judul: "Portofolio Pribadi ",
         keahlian: ["JavaScript","PHP"],
-        gambar: "https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",
+        gambar: "https://www.moople.in/blog/wp-content/uploads/2024/11/html-css-full-course-20-11-2024.jpg",
         latar: "this is my project",
         tantangan: "",
         pelajaran: "",
