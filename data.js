@@ -3,7 +3,7 @@ const databaseProyek = {
         judul: "Portofolio Pribadi ",
         keahlian: ["JavaScript","PHP"],
         gambar: "https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",
-        latar: "ini adalah project apa aja",
+        latar: "this is my project",
         tantangan: "",
         pelajaran: "",
         link: ""
@@ -13,7 +13,7 @@ const databaseProyek = {
         judul: "Portofolio Pribadi ",
         keahlian: ["JavaScript","PHP"],
         gambar: "https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",
-        latar: "ini adalah project apa aja",
+        latar: "this is my project",
         tantangan: "",
         pelajaran: "",
         link: ""
